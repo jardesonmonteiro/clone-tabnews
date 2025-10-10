@@ -1,2 +1,2 @@
 # clone-tabnews
-Estudando pelo curso.dev.
+Estudos com curso.dev.
