@@ -1,0 +1,9 @@
+#sai dos subníveis até encontrar arquivo raiz
+root = true
+
+#define que essas regras aplicam-se en qualquer tipo de arquivo
+[*]
+#define espaço como padrão para identação
+indent_style = space
+#define que uma identação equivale a 2 espaços
+indent_size = 2
