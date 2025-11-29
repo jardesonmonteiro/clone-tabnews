@@ -5,9 +5,6 @@ function Home() {
   // Aqui estamos apenas renderizando um título simples na página inicial.
   return <h1>Tainá, eu amo você. Se você me ama, dá uma risadinha 🤍</h1>;
 }
-function test() {
-  console.log("testando prettier");
-}
 
 // O Next.js exige que o componente da página seja o "default export".
 // Isso permite que o framework carregue automaticamente esta página.
